@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my GitHub Profile!
 <p>
   I'm Patrick, a current 2nd year at UNC Charlotte
 </p>
