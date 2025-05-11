@@ -8,7 +8,7 @@ You might see a lot of chess webpages when you search my name :)
 - **1st Place** in Diversity HackCLT 2024: [MapEngage](https://github.com/mapengage/map-engage)
   - *A platform that visualizes community engagement opportunities and resources at UNC Charlotte*
 - **Best First Timer** at DiamondHacks 2023: [Voting Buddy](https://github.com/SquidCooki2/DiamondHacks2023)
-  - *A user-friendly tool to simplify the voting process and increase civic engagement*
+  - *A user-friendly tool to simplify finding polling places and increase civic engagement*
 
 ## Looking For
 - Software Engineering or AI/ML Internships
