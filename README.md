@@ -12,9 +12,7 @@
   - *A user-friendly tool to simplify the voting process and increase civic engagement*
 
 ## What I'm Looking For
-- Software Engineering Internships
-- Backend Development Roles
-- AI/ML Opportunities
+- Software Engineering or AI/ML Internships
 
 ## 🛠️ Technical Skills
 ```
