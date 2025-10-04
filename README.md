@@ -1,7 +1,7 @@
 # Hi there, I'm Patrick!
 
 ## About Me
-I'm **Patrick Kengsoontra**, 3rd year undergraduate computer science student at NC State. <br>
+I'm **Patrick Kengsoontra**, an undergraduate computer science student at NC State. <br>
 You might see a lot of <a href="https://ratings.fide.com/profile/39908844" target="_blank">chess webpages</a> when you search my name.
 
 ## Hackathon Achievements
