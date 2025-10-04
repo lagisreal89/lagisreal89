@@ -2,7 +2,7 @@
 
 ## About Me
 I'm **Patrick Kengsoontra**, 3rd year undergraduate computer science student at NC State. <br>
-You might see a lot of <a href="https://ratings.fide.com/profile/39908844" target="_blank">chess webpages</a> when you search my name... I'm not at my peak anymore, but I don't mind if you send a <a href="https://lichess.org/@/Journeytosomewhere2" target="_blank">challenge</a> :)
+You might see a lot of <a href="https://ratings.fide.com/profile/39908844" target="_blank">chess webpages</a> when you search my name.
 
 ## Hackathon Achievements
 - **1st Place** in HackCLT 2024: <a href="https://github.com/mapengage/map-engage" target="_blank">MapEngage</a>
