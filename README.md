@@ -17,5 +17,5 @@ You might see a lot of <a href="https://ratings.fide.com/profile/39908844" targe
 ```
 Programming Languages: Python, Java, JavaScript, HTML, CSS
 Libraries: Pandas, MatPlotLib, Sklearn, NumPy, React
-Frameworks: Next.js, Svelte
+Frameworks: Svelte
 ```
