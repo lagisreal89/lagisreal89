@@ -17,6 +17,6 @@ You might see a lot of <a href="https://ratings.fide.com/profile/39908844" targe
 ## Technical Skills
 ```
 Programming Languages: Python, Java, JavaScript, HTML, CSS
-Libraries/Frameworks: Pandas, MatPlotLib, Sklearn, NumPy, React, Svelte
-Developer Tools: Git, GitLab, VS Code, Android Studio
+Libraries/Frameworks: Pandas, MatPlotLib, Sklearn, NumPy, PyTorch, React, Svelte
+Developer Tools: Git, GitLab, VS Code, Docker
 ```
